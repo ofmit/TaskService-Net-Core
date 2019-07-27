@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.BusinessLogic\\OfficeMate.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.BusinessLogic\\OfficeMate.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.BusinessLogic\\OfficeMate.BusinessLogic.csproj",
+        "projectName": "OfficeMate.BusinessLogic",
+        "projectPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.BusinessLogic\\OfficeMate.BusinessLogic.csproj",
+        "packagesPath": "D:\\Users\\palagon\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\palagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\OfficeMate.Common.csproj": {
+                "projectPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\OfficeMate.Common.csproj"
+              },
+              "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\OfficeMate.MongoDB.csproj": {
+                "projectPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\OfficeMate.MongoDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\OfficeMate.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\OfficeMate.Common.csproj",
+        "projectName": "OfficeMate.Common",
+        "projectPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\OfficeMate.Common.csproj",
+        "packagesPath": "D:\\Users\\palagon\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\palagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\OfficeMate.MongoDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\OfficeMate.MongoDB.csproj",
+        "projectName": "OfficeMate.MongoDB",
+        "projectPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\OfficeMate.MongoDB.csproj",
+        "packagesPath": "D:\\Users\\palagon\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TaskRemoveTempFalcon\\OfficeMate.MongoDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\palagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

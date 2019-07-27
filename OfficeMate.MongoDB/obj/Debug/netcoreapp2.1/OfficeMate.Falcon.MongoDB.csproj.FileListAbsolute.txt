@@ -1,0 +1,9 @@
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\bin\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.deps.json
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\bin\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.dll
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\bin\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.pdb
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.csproj.CoreCompileInputs.cache
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.AssemblyInfoInputs.cache
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.AssemblyInfo.cs
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.dll
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.pdb
+D:\Projects\Falcon\API\falcon-api\OfficeMate.Falcon.MongoDB\obj\Debug\netcoreapp2.1\OfficeMate.Falcon.MongoDB.csprojAssemblyReference.cache

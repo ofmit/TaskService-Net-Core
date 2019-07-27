@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeMate.TaskService", "OfficeMate.TaskService\OfficeMate.TaskService.csproj", "{E13FF93D-4206-42E6-AAFB-196A946A1E2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeMate.MongoDB", "OfficeMate.MongoDB\OfficeMate.MongoDB.csproj", "{95CDFA29-5265-4195-901D-3927C7E6CF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeMate.BusinessLogic", "OfficeMate.BusinessLogic\OfficeMate.BusinessLogic.csproj", "{D0E7D354-E661-4DD2-BF44-C0F8B7E7086D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeMate.Common", "OfficeMate.Common\OfficeMate.Common.csproj", "{D67E7676-49EF-4793-B7E8-A8A0EF9AAE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13FF93D-4206-42E6-AAFB-196A946A1E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13FF93D-4206-42E6-AAFB-196A946A1E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13FF93D-4206-42E6-AAFB-196A946A1E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13FF93D-4206-42E6-AAFB-196A946A1E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CDFA29-5265-4195-901D-3927C7E6CF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CDFA29-5265-4195-901D-3927C7E6CF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CDFA29-5265-4195-901D-3927C7E6CF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CDFA29-5265-4195-901D-3927C7E6CF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E7D354-E661-4DD2-BF44-C0F8B7E7086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E7D354-E661-4DD2-BF44-C0F8B7E7086D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E7D354-E661-4DD2-BF44-C0F8B7E7086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E7D354-E661-4DD2-BF44-C0F8B7E7086D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67E7676-49EF-4793-B7E8-A8A0EF9AAE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E7676-49EF-4793-B7E8-A8A0EF9AAE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E7676-49EF-4793-B7E8-A8A0EF9AAE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E7676-49EF-4793-B7E8-A8A0EF9AAE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA5B181-0724-45A4-9DA7-C514C87EA42D}
+	EndGlobalSection
+EndGlobal

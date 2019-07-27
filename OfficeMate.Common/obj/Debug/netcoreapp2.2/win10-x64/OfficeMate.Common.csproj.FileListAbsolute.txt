@@ -1,0 +1,9 @@
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.deps.json
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.pdb
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.csprojAssemblyReference.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.csproj.CoreCompileInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.AssemblyInfoInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.AssemblyInfo.cs
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.Common\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.pdb

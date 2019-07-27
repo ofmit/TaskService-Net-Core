@@ -1,0 +1,8 @@
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\bin\Debug\netcoreapp2.2\OfficeMate.MongoDB.deps.json
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\bin\Debug\netcoreapp2.2\OfficeMate.MongoDB.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\bin\Debug\netcoreapp2.2\OfficeMate.MongoDB.pdb
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\obj\Debug\netcoreapp2.2\OfficeMate.MongoDB.csproj.CoreCompileInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\obj\Debug\netcoreapp2.2\OfficeMate.MongoDB.AssemblyInfoInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\obj\Debug\netcoreapp2.2\OfficeMate.MongoDB.AssemblyInfo.cs
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\obj\Debug\netcoreapp2.2\OfficeMate.MongoDB.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.MongoDB\obj\Debug\netcoreapp2.2\OfficeMate.MongoDB.pdb

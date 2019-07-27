@@ -1,0 +1,14 @@
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.deps.json
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.pdb
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.MongoDB.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.Common.pdb
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\bin\Debug\netcoreapp2.2\win10-x64\OfficeMate.MongoDB.pdb
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.csprojAssemblyReference.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.AssemblyInfo.cs
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.csproj.CopyComplete
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.dll
+D:\Projects\TaskRemoveTempFalcon\OfficeMate.BusinessLogic\obj\Debug\netcoreapp2.2\win10-x64\OfficeMate.BusinessLogic.pdb

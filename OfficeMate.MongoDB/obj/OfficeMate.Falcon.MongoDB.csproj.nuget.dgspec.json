@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Falcon\\API\\falcon-api\\OfficeMate.Falcon.MongoDB\\OfficeMate.Falcon.MongoDB.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Falcon\\API\\falcon-api\\OfficeMate.Falcon.MongoDB\\OfficeMate.Falcon.MongoDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Falcon\\API\\falcon-api\\OfficeMate.Falcon.MongoDB\\OfficeMate.Falcon.MongoDB.csproj",
+        "projectName": "OfficeMate.Falcon.MongoDB",
+        "projectPath": "D:\\Projects\\Falcon\\API\\falcon-api\\OfficeMate.Falcon.MongoDB\\OfficeMate.Falcon.MongoDB.csproj",
+        "packagesPath": "D:\\Users\\palagon\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Falcon\\API\\falcon-api\\OfficeMate.Falcon.MongoDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Projects\\Falcon\\API\\falcon-api\\NuGet.Config",
+          "D:\\Users\\palagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Projects\\Falcon\\API\\falcon-api\\nuget.packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
